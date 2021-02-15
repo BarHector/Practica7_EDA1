@@ -1,0 +1,7 @@
+Modificar el archivo lista.c para que permita: 
+1) Guardar en cada 'Nodo' el nombre y teléfono (o numero) de una persona.
+
+2) Mostrar los nombres almacenados en la lista .
+
+3) Solicitar al usuario el nombre de una persona, buscarlo en la lista y 
+si existe mostrar el teléfono de la persona buscada
